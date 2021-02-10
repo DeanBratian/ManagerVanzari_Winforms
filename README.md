@@ -1,0 +1,1 @@
+# ManagerVanzari_Winforms
